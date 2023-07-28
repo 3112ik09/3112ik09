@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Generative AI with LLMs**
 
-- 👨‍💻 All of my projects are available at [https://3112ik09.github.io/](https://3112ik09.github.io/)
+- 👨‍💻 All of my projects are available at : [https://3112ik09.github.io/](https://3112ik09.github.io/)
 
-- 📫 How to reach me **ishantkukreti2000@gmail.com**
+- 📫 How to reach me : **ishantkukreti2000@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ExCDTL6OXW0ItR5RyI2ovPAGN637lGbP/view?usp=drive_link)
+- 📄 Know about my experiences:  [Resume](https://drive.google.com/file/d/1ExCDTL6OXW0ItR5RyI2ovPAGN637lGbP/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
