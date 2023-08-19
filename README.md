@@ -9,7 +9,7 @@
 
 - 📫 How to reach me : **ishantkukreti2000@gmail.com**
 
-- 📄 Know about my experiences:  [Resume](https://drive.google.com/file/d/1ExCDTL6OXW0ItR5RyI2ovPAGN637lGbP/view?usp=drive_link)
+- 📄 Know about my experiences:  [Resume](https://drive.google.com/file/d/1BA9uwlRAfXdbJEwp5guVPoxgfFNhsTGr/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
