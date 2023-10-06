@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishant Kukreti</h1>
 <h3 align="center">A passionate AI Engineer.</h3>
 
-- 🔭 I’m currently working on **AI art**
+- 🔭 I’m currently working on **AI art** and Computer Vision.
 
 - 🌱 I’m currently learning **Generative AI with LLMs**
 
