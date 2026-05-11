@@ -9,9 +9,6 @@
 
 - 🧠 Currently working as an **ML Engineer** focused on **Computer Vision**
 - 🎨 Passionate about **AI Art**, **Generative AI**, and **LLMs**
-- 🔊 Built [CloneVoice](https://github.com/3112ik09/CloneVoice) — cross-language voice cloning using Bark AI + RVC
-- 🚗 Built [SpeedApp](https://github.com/3112ik09/SpeedApp) — real-time vehicle speed & license plate detection
-- 🎬 Built [MakeSync](https://github.com/3112ik09/MakeSync) — lip sync generation using Wav2Lip
 - 👨‍💻 All projects at: [3112ik09.github.io](https://3112ik09.github.io/)
 - 📫 Reach me at: **ishantkukreti2000@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/1BA9uwlRAfXdbJEwp5guVPoxgfFNhsTGr/view)
