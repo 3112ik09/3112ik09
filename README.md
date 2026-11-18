@@ -9,7 +9,7 @@
 - 🎨 Passionate about **AI Art**, **Generative AI**, and **LLMs**
 - 👨‍💻 All projects at: [3112ik09.github.io](https://3112ik09.github.io/)
 - 📫 Reach me at: **ishantkukreti2000@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1BA9uwlRAfXdbJEwp5guVPoxgfFNhsTGr/view)
+- 📄 [Resume](https://drive.google.com/file/d/11zGQhomWDWyfuORlVX_OJxOugSg8IQ3B/view?usp=sharing)
 
 ---
 
